@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, TeamCity CI!")
+﻿Console.WriteLine("Hello, TeamCity CI!");
